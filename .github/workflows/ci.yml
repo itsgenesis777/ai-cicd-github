@@ -33,5 +33,3 @@ jobs:
         with:
           name: python-package
           path: dist/
-
-```
